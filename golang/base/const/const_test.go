@@ -1,4 +1,4 @@
-package const_test
+package const1
 
 import (
 	"testing"

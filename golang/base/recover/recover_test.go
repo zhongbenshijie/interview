@@ -1,4 +1,4 @@
-package recover_test
+package recover1
 
 import (
 	"errors"

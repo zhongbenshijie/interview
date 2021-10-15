@@ -1,4 +1,4 @@
-package channel_broadcast_test
+package channel_broadcast
 
 import (
 	"testing"

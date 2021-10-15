@@ -1,4 +1,4 @@
-package variable_params_test
+package variable_params
 
 import (
 	"fmt"
